@@ -1,0 +1,29 @@
+body{
+  font-family: sans-serif;
+  background-color: lightgreen;
+}
+
+h2{
+    text-align: center;
+}
+img{
+    width:320px;
+}
+img{
+    text-align: center;
+}
+iframe{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+footer{
+    background-color:red;
+}
+h3{
+    text-align:center;
+}
+iframe{
+    margin-left:500px;
+}
